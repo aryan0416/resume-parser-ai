@@ -1,5 +1,5 @@
 import streamlit as st
-import PyPDF2
+from pypdf import PdfReader
 import re
 import numpy as np
 from sentence_transformers import SentenceTransformer
@@ -581,3 +581,4 @@ st.markdown("""
 Designed & Developed by Aryan Dahiya | © 2026
 </div>
 """, unsafe_allow_html=True)
+

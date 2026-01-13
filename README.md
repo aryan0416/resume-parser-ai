@@ -11,8 +11,8 @@ It combines semantic similarity matching with a skill-database checklist to help
 ---
 
 ## Live Demo
-- **App:** https://<your-streamlit-app-link>  
-- **GitHub:** https://github.com/<your-username>/<repo-name>  
+- **App:** https://resume-parser-ai-aryan-dahiya.streamlit.app/
+- **GitHub:** https://github.com/aryan0416/resume-parser-ai/
 
 ---
 

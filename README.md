@@ -142,7 +142,4 @@ streamlit run app.py
 
 This project is licensed under the **MIT License**.
 
-```
 
-If you want, I can also generate a **shorter README** version (minimal but premium) for recruiters + add “How it works” section with architecture diagram text.
-```

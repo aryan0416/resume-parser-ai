@@ -120,16 +120,12 @@ streamlit run app.py
 
 ## Screenshots
 
-(Add your screenshots here)
+<img width="1891" height="953" alt="image" src="https://github.com/user-attachments/assets/0fdb6514-fb18-405b-8f1e-5fa43c7e7442" />
+<img width="1912" height="959" alt="image" src="https://github.com/user-attachments/assets/38812621-63f5-40d6-9e43-d91cca51785c" />
+<img width="1902" height="950" alt="image" src="https://github.com/user-attachments/assets/b30c055c-0733-4a23-a92b-d83f9f31cc0b" />
+<img width="1757" height="948" alt="image" src="https://github.com/user-attachments/assets/88a2f294-5eab-4828-9684-d3fee79f31ba" />
+<img width="1902" height="928" alt="image" src="https://github.com/user-attachments/assets/56a8dedc-eea9-423b-8118-37cf7b451f68" />
 
-Example:
-
-```md
-![Dashboard](assets/01_dashboard.png)
-![ATS Checklist](assets/02_ats_checklist.png)
-![Action Plan](assets/03_action_plan.png)
-![Bullet Review](assets/04_bullet_review.png)
-```
 
 ---
 
@@ -137,8 +133,8 @@ Example:
 
 **Aryan Dahiya**
 
-* LinkedIn: [https://linkedin.com/in/](https://linkedin.com/in/)<your-profile>
-* GitHub: [https://github.com/](https://github.com/)<your-username>
+* LinkedIn:(https://www.linkedin.com/in/aryan-dahiya/)
+* GitHub: https://github.com/aryan0416
 
 ---
 
